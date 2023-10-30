@@ -1,0 +1,6 @@
+# netlify.toml
+
+[[redirects]]
+  from = "/"
+  to = "/calc.html"
+  status = 200
